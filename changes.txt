@@ -1,0 +1,9 @@
+- usuniêto warunek if(get_magic_quotes_gpc() == true)
+                    ini_set('magic_quotes_gpc', 'off');
+
+- /*
+  if($_SERVER['HTTP_HOST'] !== 'www.skryptoteka.rynko.pl')
+   die('<p>Nieprawid³owe przekierowanie. Chcesz siê w³amaæ?</p>');
+  */
+
+-

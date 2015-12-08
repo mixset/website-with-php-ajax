@@ -1,0 +1,21 @@
+body {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+h1 {
+    padding-bottom: 40px;
+}
+
+#menu {
+    float: left;
+}
+
+#content {
+    padding-right: 700px;
+    float: right;
+}
