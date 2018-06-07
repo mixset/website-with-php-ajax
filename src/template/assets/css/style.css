@@ -1,0 +1,45 @@
+body {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+.hr {
+    border: 0;
+    height: 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+header {
+    height: 60px;
+    padding-bottom: 40px;
+}
+
+header h1 {
+    padding-top: 25px;
+    text-align: center;
+}
+
+.container-left {
+    width: 300px;
+    float: left;
+}
+
+.container-left .menu ul {
+    list-style-type: circle;
+    margin-left: 20px;
+}
+
+.container-left .menu ul li {
+    line-height: 35px;
+}
+
+.container-right {
+    width: 660px;
+    min-height: 300px;
+    float: right;
+}
