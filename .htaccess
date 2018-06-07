@@ -1,6 +1,0 @@
-RewriteEngine On
-Options +FollowSymlinks
-
-# php_flag register_globals off 
-# W przypadku gdy skrypt nie dzia³a usun¹æ powy¿sz¹ linijkê
-
